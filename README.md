@@ -71,13 +71,13 @@
 
 - 활성엽산(5-MTHF): 1000mg 이상 아침 저녁 2번
 - 코엔자임큐텐 + PQQ: Jarrow Formulas, Ubiquinol, QH-Absorb + PQQ
-- L글루타민: 대장 기능, 에너지, 점망 재생 등 장누수증후군에 효과 있음. [**youtube** 닥터조](https://www.youtube.com/watch?v=yAPeiRywC2I)
+- L글루타민: 대장 기능, 에너지, 점막 재생 등 장누수증후군에 효과 있음. [**youtube** 닥터조(장누수증후군에 처방하는 글루타민)](https://www.youtube.com/watch?v=yAPeiRywC2I)
 - 아스피린: 혈전 예방, 심혈관 위험 예방. 81mg 베이비 아스피린 하루 1알 => [**book** 노화의 종말](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247395152)
 - 디오스민: 순환 장애 개선, 450mg 아침 저녁
 - 가바: 750mg 저녁
 - HCl 베타인: 단백질 소화기능을 돕고 대장으로 소화가 덜된 단백질이 공급되는 것을 막아주지만, 여기서 목적은 많은 보충제의 흡수율을 높히기 위함
-- NMN: 프로헬스 제품 하루 최대 1000mg => 노화 치료, DNA 생성에 관여
-- 트렌스 레스베라트롤: 프로헬스 1000mg => NMN 부스팅
+- NMN: 프로헬스 제품 하루 최대 1000mg => 노화 치료, DNA 생성에 관여 [**book** 노화의 종말](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247395152)
+- 트렌스 레스베라트롤: 프로헬스 1000mg => NMN 부스팅 [**book** 노화의 종말](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247395152)
 - AMPK: 미토콘드리아 기능, 운동하기 전에 섭취
 - 오토파지 리뉴(지로프로텍트): 자가포식 기능 촉진, 신경염증 제거에 효과
 - 커큐민: 항산화, 항염증
