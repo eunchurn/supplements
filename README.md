@@ -57,7 +57,7 @@
 
 - 비타민 D3 권장 복용량은 2000IU인데, 나는 매일 5000IU 예전엔 10000IU 고용량 복용함 => 자가면역질환이 있는 사람은 이정도 => 아침에 복용. 용량참고: [**youtube** 백병원 박현아 교수: 비타민D 섭취 시 주의할 점 5가지](https://www.youtube.com/watch?v=HaL4uPGOcOM)
 - 비타민 B군: Jarrow Fomular B-Right 아침
-- 비타민 B12: 1000mg 이상 아침
+- 비타민 B12: 신경 기능에 필요, DNA 활동에 관려, 엽산의 활동을 도움. 1000mg 이상 아침 [**youtube** 닥터조: 비타민 B12 결핍을 알리는 신호](https://www.youtube.com/watch?v=jzV3zxyfd9M)
 - 비타민 K2: MenaQ7, 아침 저녁
 - 비타민 C: 고용량이 의미가 없다고 함. 수용성이기 때문에 200mg는 몸에서 사용되고 나머지는 바로 소변으로 배출, 따라서 Timed release 추천 => 500mg 최초 release 후 남은 500mg을 20시간동안 천천히 release => Solaray 서방형 비타민C 1000mg
 ## 미네랄
@@ -78,10 +78,11 @@
 - HCl 베타인: 단백질 소화기능을 돕고 대장으로 소화가 덜된 단백질이 공급되는 것을 막아주지만, 여기서 목적은 많은 보충제의 흡수율을 높히기 위함
 - NMN: 프로헬스 제품 하루 최대 1000mg => 노화 치료, DNA 생성에 관여 [**book** 노화의 종말](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247395152)
 - 트렌스 레스베라트롤: 프로헬스 1000mg => NMN 부스팅 [**book** 노화의 종말](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247395152)
-- AMPK: 미토콘드리아 기능, 운동하기 전에 섭취
-- 오토파지 리뉴(지로프로텍트): 자가포식 기능 촉진, 신경염증 제거에 효과
+- 메트포르민: 당뇨 1차 처방약. mTor 억제, 수명연장 [**book** 노화의 종말](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247395152)
+- AMPK: 간헐적 단식 효과 = 자가포식 스위치를 켬. 미토콘드리아 기능, 염증 감소, 인슐린 민감성 개선. 운동하기 전에 섭취 [장항준 내과](https://www.youtube.com/watch?v=HFMyrD6usEI)
+- 오토파지 리뉴(지로프로텍트): 루테올린 성분 => 자가포식 기능 촉진, 신경염증 제거에 효과
 - 커큐민: 항산화, 항염증
-- L타이로신: 도파민 전구 아미노산, B6와 아연이 필요. L도파보다 필요한 경우 생성하게 되므로 비교적 안전하다고 판단. [**youtube** 닥터조(우울증, 무기력감, 집중력장애 그리고 도파민)](https://www.youtube.com/watch?v=q05ZKJH_D24)
+- L타이로신: 도파민 전구 아미노산, B6와 아연이 필요. L도파보다 필요한 경우 생성하게 되므로 비교적 안전하다고 판단. [**youtube** 닥터조(우울증, 무기력감, 집중력장애 그리고 도파민)](https://www.youtube.com/watch?v=q05ZKJH_D24). 당뇨와 도파민 관련: [**youtube** 장항준내과](https://www.youtube.com/watch?v=TvpaRS3KKr0)
 
 ## 필수 보충제
 
