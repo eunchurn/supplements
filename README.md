@@ -123,7 +123,7 @@
 - 비타민 A: 간헐적으로 복용
 - NAG: N-아세틸 글루코사민
 - 히알루론산
-- CLA: 공액리놀레산
+- CLA: [공액리놀레산](http://www.health.kr/Menu.PharmReview/_uploadfiles/%EA%B3%B5%EC%95%A1%EB%A6%AC%EB%86%80%EB%A0%88%EC%82%B0(conjugated%20linoleic%20acid).pdf)
 - AMPK
 - 트레티노인 (잠들기전 세안 후 얼굴에 소량 바름)
 
