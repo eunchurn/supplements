@@ -53,13 +53,21 @@
 - 항산화, 좀비세포 제거함
 - 간헐적 단식을 병행하며 고용량 용법으로 효과를 보는 경우가 많음
 
+### 엘더베리
+
+- 시아니딘 성분 풍부: 시루투인-6 를 가장 강력하게 활성화
+
+### 아피제닌
+
+- CD38 억제제: NAD를 소모하는 CD38을 억제함. 파슬리에 많이 있음. 흡수율이 낮으니 리포조말 형태를 추천. 추천제품은 Codeage사의 [Liposomal 아피제닌](https://kr.iherb.com/pr/codeage-liposomal-apigenin-non-gmo-vegan-90-capsules/114120?rcode=CDV0253)
+
 ## 비타민
 
 - 비타민 D3 권장 복용량은 2000IU인데, 나는 매일 5000IU 예전엔 10000IU 고용량 복용함 => 자가면역질환이 있는 사람은 이정도 => 아침에 복용. 용량참고: [**youtube** 백병원 박현아 교수: 비타민D 섭취 시 주의할 점 5가지](https://www.youtube.com/watch?v=HaL4uPGOcOM)
 - 비타민 B군: Jarrow Fomular B-Right 아침
 - 비타민 B12: 신경 기능에 필요, DNA 활동에 관려, 엽산의 활동을 도움. 1000mg 이상 아침 [**youtube** 닥터조: 비타민 B12 결핍을 알리는 신호](https://www.youtube.com/watch?v=jzV3zxyfd9M)
 - 비타민 K2: MenaQ7, 아침 저녁
-- 비타민 C: 고용량이 의미가 없다고 함. 수용성이기 때문에 200mg는 몸에서 사용되고 나머지는 바로 소변으로 배출, 따라서 Timed release 추천 => 500mg 최초 release 후 남은 500mg을 20시간동안 천천히 release => Solaray 서방형 비타민C 1000mg
+- 비타민 C: 고용량이 의미가 없다고 함. 수용성이기 때문에 200mg는 몸에서 사용되고 나머지는 바로 소변으로 배출, ~~따라서 Timed release 추천 => 500mg 최초 release 후 남은 500mg을 20시간동안 천천히 release => Solaray 서방형 비타민C 1000mg~~ 추천 변경: 서방정 문제는 졸음이 쏟아짐. 리포조말 형태로 변경 Codeage사의 [Liposomal Vitamin C+](https://kr.iherb.com/pr/codeage-vitamins-liposomal-vitamin-c-180-capsules/104054?rcode=CDV0253) 6개월 복용결과 이 제품으로 정착
 ## 미네랄
 
 - 라이프 익스텐션 온리 트레이스 미네랄스: 일반적인 사람은 복합 미네랄 제제가 적당해 보임
@@ -78,6 +86,7 @@
 - HCl 베타인: 단백질 소화기능을 돕고 대장으로 소화가 덜된 단백질이 공급되는 것을 막아주지만, 여기서 목적은 많은 보충제의 흡수율을 높히기 위함
 - NMN: 프로헬스 제품 하루 최대 1000mg => 노화 치료, DNA 생성에 관여 [**book** 노화의 종말](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247395152)
 - 트렌스 레스베라트롤: 프로헬스 1000mg => NMN 부스팅 [**book** 노화의 종말](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247395152)
+- 프테로스틸벤: 프로헬스 => NMN 부스팅
 - 메트포르민: 당뇨 1차 처방약. mTor 억제, 수명연장 [**book** 노화의 종말](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=247395152)
 - AMPK: 간헐적 단식 효과 = 자가포식 스위치를 켬. 미토콘드리아 기능, 염증 감소, 인슐린 민감성 개선. 운동하기 전에 섭취 [장항준 내과](https://www.youtube.com/watch?v=HFMyrD6usEI)
 - 오토파지 리뉴(지로프로텍트): 루테올린 성분 => 자가포식 기능 촉진, 신경염증 제거에 효과
@@ -98,20 +107,22 @@
 
 - NMN
 - 트렌스 레스베라트롤
+- 프테로스틸벤
+- 퀘르세틴
 - 비타민 K2
 - TMG
-- 비타빈 D3
+- 비타민 D3
 - 아스피린 81mg
 - 활성 엽산
 - L글루타민
 
 ### 점심 (점심식사 후): 항산화, 도파민, 뇌활성 및 집중력
 
-- 글루타치온
+- 글루타치온 (가격대가 있어서 Jarrow Fomulas 환원현 글루타치온 500mg으로 정착)
 - 비타민 C
 - 비타민 B6, B12 (아침에 먹어야 효과적이지만, 속쓰림이 있을 수 있으므로...)
 - L타이로신
-- 미네랄(온리 트레이스 미네랄스)
+- ~~미네랄(온리 트레이스 미네랄스)~~
 - 알파리포산
 - CoQ10
 - 차전자피
